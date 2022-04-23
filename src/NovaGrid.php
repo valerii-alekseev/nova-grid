@@ -23,8 +23,8 @@ class NovaGrid extends Tool
      *
      * @return void
      */
-    public function renderNavigation()
-    {
+    
+    public function menu(Request $request) {
         return ;
     }
 }
